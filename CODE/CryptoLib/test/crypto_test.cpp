@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <iostream>
 #include <string>
+
+
 int main(){
     Cryptor cryptor;
     std::string key = "thisiskey";
